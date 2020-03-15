@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.formContainer {
+  border: 5px solid lightslategray;
+  padding: 3%;
+  box-sizing: border-box;
+  background:white;
+  width: 75%;
+ 
+}
